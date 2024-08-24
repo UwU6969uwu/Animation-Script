@@ -1,7 +1,7 @@
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
--- Define the animation IDs for the Adidas Sports Animation Pack
+-- Define the animation IDs for the Vampire Animation Pack
 local animations = {
     idle = "rbxassetid://1113742618",    -- Primary idle animation
     idleAlt = "rbxassetid://1113742618", -- Alternate idle animation
